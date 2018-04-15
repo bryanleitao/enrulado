@@ -1,0 +1,72 @@
+body {
+ background-color: #F8F9FC;
+}
+
+#logo {
+ width: 100%;
+}
+
+#logo img {
+float: right;
+width: 10%
+}
+
+.menuhelados {
+  overflow: hidden;
+}
+
+.menuhelados li{
+  float: left;
+  color: #C00000;
+  padding: 14px 16px;
+  font-size: 17px;
+  background-color:white;
+   padding: 14px 16px;
+   text-decoration: none;
+}
+
+.menuhelados a:hover {
+  color: #DE3C3C;
+}
+
+nav {
+width: 100%;
+}
+
+
+a {
+ text-decoration:none;
+ color: inherit;
+}
+
+ul {
+ list-style-type: none;
+}
+
+section {
+width: 100%;
+}
+
+img {
+
+}
+
+h1 {
+
+}
+
+
+header {
+ margin: 10%;
+}
+
+#mapa img {
+width: 50%;
+margin: auto 25%;
+
+}
+
+#home img {
+ width: 50%;
+ margin: auto 25%;
+}
